@@ -443,6 +443,12 @@ img {
     vertical-align: top;
 }
 
+.content-projects .project .width {
+    object-fit: cover;
+    width: 100%;
+    height: 294.72px;
+}
+
 .project .about-project p {
     font-size: 16px;
     color: var(--primary);
